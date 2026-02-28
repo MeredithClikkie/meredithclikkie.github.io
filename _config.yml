@@ -1,8 +1,8 @@
-theme: jekyll-theme-minimal
-title: snap_back 
+remote_theme: pages-themes/minimal@v0.2.0
+title: "Snapback" 
 permalink: /:title/
-baseurl: "/snapback"
-description: Bookmark this to keep an eye on my project updates!
+baseurl: ""
+description: "Snapback by momentismedical"
 url: "https://snapback.momentismedical.dev"
 
 # This ensures the build isn't skipping your posts
@@ -13,9 +13,12 @@ collections:
 # To show the buttons (Current state)
 show_downloads: true
 
-# To hide the buttons (If you want a cleaner look)
-show_downloads: false
-
 plugins:
   - jekyll-gist
   - jekyll-remote-theme
+  - jekyll-feed 
+  - jekyll-seo-tag
+
+markdown: kramdown 
+kramdown: 
+input: GFM
