@@ -49,6 +49,14 @@ markdown: kramdown
 kramdown: 
 input: GFM
 
+footer_links:
+  - title: BreachLab
+    url: https://breachlab.momentismedical.dev
+  - title: Wordpress
+    url: https://momentismedical.dev
+  - title: Medium
+    url: https://medium.com/@Snapback17
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
