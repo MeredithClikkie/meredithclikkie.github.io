@@ -3,7 +3,7 @@ title: snap_back
 permalink: /:title/
 baseurl: "/snap_back"
 description: Bookmark this to keep an eye on my project updates!
-url: "https://meredithclikkie.github.io"
+url: "https://snapback.momentismedical.dev"
 
 # This ensures the build isn't skipping your posts
 collections:
