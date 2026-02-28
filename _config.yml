@@ -40,12 +40,6 @@ show_downloads: true
 plugins:
   - jekyll-gist
   - jekyll-remote-theme
-  - jekyll-feed 
-  - jekyll-seo-tag
-
-markdown: kramdown 
-kramdown: 
-input: GFM
 
 footer_links:
   - title: Main Blog
@@ -53,7 +47,7 @@ footer_links:
   - title: BreachLab
     url: https://breachlab.mountainwaffles.com
   - title: Medium
-    url: https://medium.com/@Snapback17
+    url: https://medium.com/@ending_glosses26.com
     
 # Exclude from processing.
 # The following items will not be processed, by default.
