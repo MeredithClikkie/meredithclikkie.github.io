@@ -10,12 +10,12 @@ title: Snapback
 - Feature roadmap
 - Release notes
 - Live demos (coming soon)
+  
 ## Explore the Ecosystem
 
-- **Snapback** — recovery + cycles system  
-- **BreachLab** — experiments + dashboards  
-- **Wordpress** — longform writing + updates
-- **Medium**  
+- **[Wordpress](https://momentismedical.dev)** - longform writing + updates
+- **[BreachLab](https://breachlab.momentismedical.dev)** - experiments + dashboards
+- **[Medium](https://medium.com/@Snapback17)** - secondary blog
 
 ## Latest Updates
 Content will appear here as the site deploys.
