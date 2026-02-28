@@ -18,7 +18,7 @@ title: Snapback
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Gravatar](https://meredith-smith.link)**
 ## Contact
-- [email](msmithclikkie@gmail.com)
+- **[email](msmithclikkie@gmail.com)**
 
 ## Latest Updates
 Content will appear here as the site deploys.
