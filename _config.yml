@@ -50,9 +50,11 @@ kramdown:
 input: GFM
 
 footer_links:
+  - title: Main Blog
+    url: https://mdawg1981-tjlhe.wordpress.com
   - title: BreachLab
     url: https://breachlab.momentismedical.dev
-  - title: Main Blog
+  - title: Wordpress
     url: https://momentismedical.dev
   - title: Medium
     url: https://medium.com/@Snapback17
