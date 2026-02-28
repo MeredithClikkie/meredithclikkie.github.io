@@ -13,8 +13,9 @@ title: Snapback
   
 ## Explore the Ecosystem
 
-- **[Main Blog](https://momentismedical.dev)** - longform writing + updates
+- **[Main Blog](https://mdawg1981-tjlhe.wordpress.com)** - experiments + dashboards
 - **[BreachLab](https://breachlab.momentismedical.dev)** - experiments + dashboards
+- **[Wordpress](https://momentismedical.dev)** - longform writing + updates
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
 
 ## Socials
