@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: snap_back 
 permalink: /:title/
-baseurl: "/snap_back"
+baseurl: "/snapback"
 description: Bookmark this to keep an eye on my project updates!
 url: "https://snapback.momentismedical.dev"
 
