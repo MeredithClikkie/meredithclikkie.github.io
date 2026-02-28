@@ -14,9 +14,9 @@ title: Snapback
 ## Explore the Ecosystem
 
 - **[Main Blog](https://mdawg1981-tjlhe.wordpress.com)** - experiments + dashboards
-- **[BreachLab](https://breachlab.momentismedical.dev)** - experiments + dashboards
+- **[BreachLab](https://breachlab.mountainwaffles.com)** - experiments + dashboards
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
-
+- **[Gravatar](https://meredith-smith.link)**
 ## Contact
 - [email](msmithclikkie@gmail.com)
 
