@@ -27,7 +27,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 permalink: /:title/
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://snapback.momentismedical.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://snapback.mountainwaffles.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # This ensures the build isn't skipping your posts
 collections:
